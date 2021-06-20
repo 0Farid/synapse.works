@@ -1,7 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-15:53:55	2506/2506	---MCZ	200	added ('OK')	text/html	date:Sun,%2020%20Jun%202021%2011:53:55%20GMT	https://synapse.to/	C:/My%20Web%20Sites/lol/synapse.to/index.html	(from )
-15:53:55	0/0	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2020%20Jun%202021%2011:53:55%20GMT	https://synapse.to/robots.txt		(from )
-15:53:56	31000/31000	---M-Z	200	added ('OK')	text/css	etag:%225eb03e5f-7918%22	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css	C:/My%20Web%20Sites/lol/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css	(from https://synapse.to/)
-15:53:56	27766/27766	---M--	200	added ('OK')	image/png	etag:%22f0a32eb154a38b746046c2b3ed7cbb2e%22	https://i.imgur.com/rCkL5GP.png	C:/My%20Web%20Sites/lol/i.imgur.com/rCkL5GP.png	(from https://synapse.to/)
-15:53:57	4232/4232	---MCZ	200	added ('OK')	text/html	date:Sun,%2020%20Jun%202021%2011:53:57%20GMT	https://synapse.to/cdn-cgi/l/email-protection	C:/My%20Web%20Sites/lol/synapse.to/cdn-cgi/l/email-protection.html	(from https://synapse.to/)
-15:53:57	1239/1239	---MCZ	200	added ('OK')	application/javascript	etag:W/%2260c9b1fa-4d7%22	https://synapse.to/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js	C:/My%20Web%20Sites/lol/synapse.to/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js	(from https://synapse.to/)
